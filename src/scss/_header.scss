@@ -1,0 +1,14 @@
+header{
+    background-image: url("./../../lap1-images/city.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.header_layout{
+   background-color: rgba(233, 190, 198 ,0.4)  ;
+   height: 100%;
+   display: flex;
+   justify-items: center;
+   text-align: center;
+   color: white;
+}
